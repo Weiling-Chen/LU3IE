@@ -1,4 +1,4 @@
-# LU3IE
+# A Lightweight and Unified Framework for Underwater Image Utility Evaluation
 @ARTICLE{11417259,
   author={Chen, Weiling and Xu, Lishi and Liao, Honggang and Jiang, Nanfeng and Zhao, Tiesong},
   journal={IEEE Transactions on Multimedia}, 
